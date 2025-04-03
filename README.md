@@ -14,4 +14,4 @@ Per eseguire l'applicazione 'Streamlit' scrivere il codice "streamlit run app.py
 In alternativa è possibile accedere manualmente all’indirizzo "http://localhost:8501". 
 
 E' stata realizzata una mappa interattiva dei prezzi degli immobili nella zona di Sindian tramite Tableau. Ogni punto visualizzato nella mappa rappresenta un immobile, con colore e dimensione proporzionali al prezzo al metro quadro.
-Il link per accedere alla mappa è il seguente: "https://public.tableau.com/authoring/prezziimmobiliari/Foglio1#1"
+Il link per accedere alla mappa è il seguente: "https://public.tableau.com/app/profile/greta.cerea/viz/prezziimmobiliari/Foglio1"
